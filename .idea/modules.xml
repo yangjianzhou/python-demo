@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/arima-demo/arima-demo.iml" filepath="$PROJECT_DIR$/arima-demo/arima-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/prophet-demo/prophet-demo.iml" filepath="$PROJECT_DIR$/prophet-demo/prophet-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/python-demo.iml" filepath="$PROJECT_DIR$/python-demo.iml" />
+    </modules>
+  </component>
+</project>
